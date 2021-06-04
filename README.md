@@ -14,3 +14,6 @@ Good luck extracting! *It'll be as fun as it was for me.*
 
 ```Have fun ruining the best game ever.```<br>
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/618140/header.jpg"></src>
+
+## Complaints
+Contact me at `vvdnet@pm.me` and I'll be more than happy to take this down.
