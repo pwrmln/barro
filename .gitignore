@@ -14,6 +14,12 @@
 
 *.unity
 
+UnityPackageManager/
+
+Save/
+
+obj/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
