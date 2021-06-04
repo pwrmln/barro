@@ -4,8 +4,7 @@ It was surprisingly easy and I didn't go through as much effort as I thought I w
 however not everything is COMPLETELY accurate, do mind that.
 
 ## Files not included
-I have decided not to include any audio/image/level assets<br>
-as they could POSSIBLY result in me getting a DMCA,<br>
+I have decided not to include any audio/image/level assets as they could POSSIBLY result in me getting a DMCA,<br>
 however I've left the meta files so you know what you're meant to add by yourself.<br>
 I recommend using **uTinyRipper** to extract the files needed to make the game run.<br>
 You'll need a legitimate copy of the game from Steam, on its version `V.2021.1.0`.<br>
