@@ -4,7 +4,7 @@ It was surprisingly easy and I didn't go through as much effort as I thought I w
 however not everything is COMPLETELY accurate, do mind that.
 
 ## Files not included
-I have decided to only include the Assets folder, and within that I've excluded the
+I have decided to only include the Assets folder, and within that I've excluded the<br>
 images/sounds/levels as everything else could POSSIBLY result in me getting a DMCA,<br>
 however I've left the meta files so you know what you're meant to add by yourself.<br>
 I recommend using **uTinyRipper** to extract the files needed to make the game run.<br>
