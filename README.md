@@ -11,3 +11,7 @@ I recommend using **uTinyRipper** to extract the files needed to make the game r
 You'll need a legitimate copy of the game from Steam, on its version `V.2021.1.0`.
 Anything later or earlier than that and it might not work, I haven't tried for myself.
 Good luck extracting! *It'll be as fun as it was for me.*
+
+
+```Have fun ruining the best game ever.```
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/618140/header.jpg"></src>
