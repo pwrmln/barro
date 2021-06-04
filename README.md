@@ -1,4 +1,4 @@
-# [](https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv7hpeCBw07J1xU5u-neFc50fbKI2oQuoS1x4HYlK6iZ7rSwWgEvsMo0r2Sp4ih3hqkpRRp7ril7w/60fx60f) [Barro](https://store.steampowered.com/app/618140/Barro/) Decomp (V.2021.1.0/2017.3.0f3)
+# <img src="https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv7hpeCBw07J1xU5u-neFc50fbKI2oQuoS1x4HYlK6iZ7rSwWgEvsMo0r2Sp4ih3hqkpRRp7ril7w/60fx60f"></img> [Barro](https://store.steampowered.com/app/618140/Barro/) Decomp (V.2021.1.0/2017.3.0f3)
 Today I was a bit bored, so I decided to decompile my favourite racing game, **Barro**.
 It was surprisingly easy and I didn't go through as much effort as I thought I would,
 however not everything is COMPLETELY accurate, do mind that.
